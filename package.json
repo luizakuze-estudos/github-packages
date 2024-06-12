@@ -1,6 +1,6 @@
 {
   "name": "@luizakuze/github-packages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/luizakuze-estudos/github-packages/issues"
   },
-  "homepage": "https://github.com/luizakuze-estudos/github-packages#readme"
+  "homepage": "https://github.com/luizakuze-estudos/github-packages#readme",
+  "dependencies": {
+    "@luizakuze/github-packages": "^1.0.0"
+  }
 }
