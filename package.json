@@ -1,7 +1,7 @@
 {
   "name": "@luizakuze/github-packages",
   "version": "1.0.0",
-  "description": "",
+  "description": "my first package",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
